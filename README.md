@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm</h1> <img src='https://user-images.githubusercontent.com/82002959/162749455-92292ff7-c3d1-4fcc-8409-5a3a14923d6c.png' />
 <h3 align="center">A passionate Full-Stack developer from Colombia</h3>
 
